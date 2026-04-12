@@ -1,10 +1,16 @@
 este arquivo contém informações adicionais para git
 -primeiro comando
+
 -segundo comando
 
-## comandos mais genéricos
+-segundo comando
+
+# comandos mais genéricos
 - comandos estranhos
 
 # mais comandos
+
 - isso é um teste
 - para aprender
+
+
